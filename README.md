@@ -1,6 +1,6 @@
 # Zoo Management System (Java)
 
-![Zoo Management System](zoo_management_system.png)
+
 
 ## Overview
 
